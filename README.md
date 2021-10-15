@@ -1,2 +1,2 @@
-# Getting Started with Create React App 
+# Shopping cart application + Typescript
 A simple Shopping cart application created with Reactjs + Typescript
